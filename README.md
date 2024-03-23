@@ -34,5 +34,3 @@ This project focuses on the development of an ASP.NET Core Web API to manage use
 To facilitate database versioning and updates, use the following Entity Framework commands:
 - `Add-Migrations <migration name> -o Data/Migrations` to create migration files.
 - `Update-Database` to apply migrations and update the database accordingly.
-
-Please ensure that your project follows best practices for ASP.NET Core Web APIs and demonstrates a clear understanding of RESTful principles.
